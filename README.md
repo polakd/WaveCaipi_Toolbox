@@ -1,4 +1,4 @@
-WaveCaipi Toolbox
+Wave-Caipi Toolbox
 
 script_caipirinha-recon.m and scipt_wave_caipi_recon.m compare Caipirinha vs. Wave-Caipi for highly accelerated MRI datasets [1]. Wave-Caipi improves the conditioning of the reconstruction (inverse problem) by coupling the readout into the parallel imaging problem. This results in reduced noise amplification (g-factor) and better image quality. 
 A sample dataset (R=3x3) will be uploaded soon which includes Caipirinha and Wave-Caipi raw data as well as coil sensitivity maps and a corresponding point-spread-function estimation.
